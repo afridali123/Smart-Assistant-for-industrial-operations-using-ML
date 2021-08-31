@@ -1,5 +1,4 @@
 # Smart-Voice-Assistant-for-industrial-operations-using-ML
-Smart Voice Assistant for industrial operations using ML
 
 ## Introduction
 
@@ -9,6 +8,9 @@ Voice assistants like Alexa ,Google home can interact with and provide informati
 
 
 To prove the concept, I'm going to show voice controlled operations of industrial LED's, same concept concept will be works for voice control of movements,sensors and any other.
+The entire ML algorithm will run on powerful embedded edge device called Rasberry pi 4; Its challenging to inference ML algorithms on edge devices that makes entire solution at very low cost to everyone.
 
 ### Hardware and Software Components
 
+Hardware Used :
+1.Rasberry pi 4
