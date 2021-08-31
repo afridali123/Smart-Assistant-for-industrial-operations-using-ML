@@ -1,4 +1,4 @@
-# Smart-Voice-Assistant-for-industrial-operations-using-ML
+# Smart Voice Assistant for industrial operations using ML
 
 ## Introduction
 
